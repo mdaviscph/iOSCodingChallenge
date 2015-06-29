@@ -1,0 +1,708 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Books</key>
+	<array>
+		<dict>
+			<key>Title</key>
+			<string>Brave New World</string>
+			<key>Author</key>
+			<string>Aldous Huxley</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>The Count of Monte Cristo</string>
+			<key>Author</key>
+			<string>Alexandre Dumas</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>The Three Musketeers</string>
+			<key>Author</key>
+			<string>Alexandre Dumas</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>The Color Purple</string>
+			<key>Author</key>
+			<string>Alice Walker</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Black Beauty</string>
+			<key>Author</key>
+			<string>Anna Sewell</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>The Tenant of Wildfell Hall</string>
+			<key>Author</key>
+			<string>Anne BrontÎ</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>A Clockwork Orange</string>
+			<key>Author</key>
+			<string>Anthony Burgess</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Barchester Towers</string>
+			<key>Author</key>
+			<string>Anthony Trollope</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>The Adventures of Sherlock Holmes</string>
+			<key>Author</key>
+			<string>Arthur Conan Doyle</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>The Casebook of Sherlock Holmes</string>
+			<key>Author</key>
+			<string>Arthur Conan Doyle</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>The Adventures of Pinocchio</string>
+			<key>Author</key>
+			<string>Carlo Collodi</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>A Tale of Two Cities</string>
+			<key>Author</key>
+			<string>Charles Dickens</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>David Copperfield</string>
+			<key>Author</key>
+			<string>Charles Dickens</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Great Expectations</string>
+			<key>Author</key>
+			<string>Charles Dickens</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Oliver Twist</string>
+			<key>Author</key>
+			<string>Charles Dickens</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>The Old Curiosity Shop</string>
+			<key>Author</key>
+			<string>Charles Dickens</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Westward Ho!</string>
+			<key>Author</key>
+			<string>Charles Kingsley</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Jane Eyre</string>
+			<key>Author</key>
+			<string>Charlotte BrontÎ</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Lady Chatterley&apos;s Lover</string>
+			<key>Author</key>
+			<string>D.H. Lawrence</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Sons and Lovers</string>
+			<key>Author</key>
+			<string>D.H. Lawrence</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Women in Love</string>
+			<key>Author</key>
+			<string>D.H. Lawrence</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Sons and Lovers</string>
+			<key>Author</key>
+			<string>D.H. Lawrence</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Robinson Crusoe</string>
+			<key>Author</key>
+			<string>Daniel Defoe</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Tales of Mystery and Imagination</string>
+			<key>Author</key>
+			<string>Edgar Allan Poe</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Wuthering Heights</string>
+			<key>Author</key>
+			<string>Emily BrontÎ</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>A Farewell to Arms</string>
+			<key>Author</key>
+			<string>Ernest Hemingway</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>For Whom the Bell Tolls</string>
+			<key>Author</key>
+			<string>Ernest Hemingway</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>The Sun Also Rises</string>
+			<key>Author</key>
+			<string>Ernest Hemingway</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Brideshead Revisited</string>
+			<key>Author</key>
+			<string>Evelyn Waugh</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>The Great Gatsby</string>
+			<key>Author</key>
+			<string>F. Scott Fitzgerald</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Little Lord Fauntleroy</string>
+			<key>Author</key>
+			<string>Frances Hodgson Burnett</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>The Secret Garden</string>
+			<key>Author</key>
+			<string>Frances Hodgson Burnett</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>The Phantom Of Opera</string>
+			<key>Author</key>
+			<string>Gaston Leroux</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Adam Bede</string>
+			<key>Author</key>
+			<string>George Eliot</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Middlemarch</string>
+			<key>Author</key>
+			<string>George Eliot</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>The Mill on the Floss</string>
+			<key>Author</key>
+			<string>George Eliot</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>1984</string>
+			<key>Author</key>
+			<string>George Orwell</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Animal Farm</string>
+			<key>Author</key>
+			<string>George Orwell</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>To Kill a Mockingbird</string>
+			<key>Author</key>
+			<string>Harper Lee</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Uncle Tom&apos;s Cabin</string>
+			<key>Author</key>
+			<string>Harriet Beecher Stowe</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Tropic of Cancer</string>
+			<key>Author</key>
+			<string>Henry Miller</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>King Solomon&apos;s Mines</string>
+			<key>Author</key>
+			<string>Henry Rider Haggard</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Moby Dick</string>
+			<key>Author</key>
+			<string>Herman Melville</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>The Catcher in the Rye</string>
+			<key>Author</key>
+			<string>J.D. Salinger</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>The Lord of the Rings</string>
+			<key>Author</key>
+			<string>J.R.R. Tolkien</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>The Call of the Wild</string>
+			<key>Author</key>
+			<string>Jack London</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>The Call of the Wild</string>
+			<key>Author</key>
+			<string>Jack London</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>White Fang</string>
+			<key>Author</key>
+			<string>Jack London</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Go Tell it on the Mountain</string>
+			<key>Author</key>
+			<string>James Baldwin</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>The Last of the Mohicans</string>
+			<key>Author</key>
+			<string>James Fenimore Cooper</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Ulysses</string>
+			<key>Author</key>
+			<string>James Joyce</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Pride and Prejudice</string>
+			<key>Author</key>
+			<string>Jane Austen</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Sense and Sensibility</string>
+			<key>Author</key>
+			<string>Jane Austen</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Pilgrim&apos;s Progress</string>
+			<key>Author</key>
+			<string>John Bunyan</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>A Separate Peace</string>
+			<key>Author</key>
+			<string>John Knowles</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Of Mice and Men</string>
+			<key>Author</key>
+			<string>John Steinbeck</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>The Grapes of Wrath</string>
+			<key>Author</key>
+			<string>John Steinbeck</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Rabbit, Run</string>
+			<key>Author</key>
+			<string>John Updike</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Gulliver&apos;s Travels</string>
+			<key>Author</key>
+			<string>Jonathan Swift</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Lord Jim</string>
+			<key>Author</key>
+			<string>Joseph Conrad</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Catch-22</string>
+			<key>Author</key>
+			<string>Joseph Heller</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>20,000 Leagues Under the Sea</string>
+			<key>Author</key>
+			<string>Jules Verne</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Around the World in Eighty Days</string>
+			<key>Author</key>
+			<string>Jules Verne</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>The Awakening</string>
+			<key>Author</key>
+			<string>Kate Chopin</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>One Flew Over the Cuckoo&apos;s Nest</string>
+			<key>Author</key>
+			<string>Ken Kesey</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Cat&apos;s Cradle</string>
+			<key>Author</key>
+			<string>Kurt Vonnegut</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Slaughterhouse-Five</string>
+			<key>Author</key>
+			<string>Kurt Vonnegut</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Alice&apos;s Adventures in Wonderland</string>
+			<key>Author</key>
+			<string>Lewis Carroll</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Little Women</string>
+			<key>Author</key>
+			<string>Louisa May Alcott</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Gone with the Wind</string>
+			<key>Author</key>
+			<string>Margaret Mitchell</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Adventures of Huckleberry Finn</string>
+			<key>Author</key>
+			<string>Mark Twain</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>The Adventures of Tom Sawyer</string>
+			<key>Author</key>
+			<string>Mark Twain</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>The Scarlet Letter</string>
+			<key>Author</key>
+			<string>Nathaniel Hawthorne</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>The Naked and the Dead</string>
+			<key>Author</key>
+			<string>Norman Mailer</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>The Importance of Being Earnest</string>
+			<key>Author</key>
+			<string>Oscar Wilde</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>The Picture of Dorian Gray</string>
+			<key>Author</key>
+			<string>Oscar Wilde</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Lorna Doone</string>
+			<key>Author</key>
+			<string>R. D. Blackmore</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Invisible Man</string>
+			<key>Author</key>
+			<string>Ralph Ellison</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Native Son</string>
+			<key>Author</key>
+			<string>Richard Wright</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Kidnapped</string>
+			<key>Author</key>
+			<string>Robert Louis Stevenson</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Strange Case of Dr Jekyll and Mr Hyde</string>
+			<key>Author</key>
+			<string>Robert Louis Stevenson</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Treasure Island</string>
+			<key>Author</key>
+			<string>Robert Louis Stevenson</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>All the King&apos;s Men</string>
+			<key>Author</key>
+			<string>Robert Penn Warren</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>The Satanic Verses</string>
+			<key>Author</key>
+			<string>Salman Rushdie</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Ivanhoe</string>
+			<key>Author</key>
+			<string>Sir Walter Scott</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>What Katy Did</string>
+			<key>Author</key>
+			<string>Susan Coolidge</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>An American Tragedy</string>
+			<key>Author</key>
+			<string>Theodore Dreiser</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Far From The Madding Crowd</string>
+			<key>Author</key>
+			<string>Thomas Hardy</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Beloved</string>
+			<key>Author</key>
+			<string>Toni Morrison</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Song of Solomon</string>
+			<key>Author</key>
+			<string>Toni Morrison</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>In Cold Blood</string>
+			<key>Author</key>
+			<string>Truman Capote</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>The Jungle</string>
+			<key>Author</key>
+			<string>Upton Sinclair</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Les MisÈrables</string>
+			<key>Author</key>
+			<string>Victor Hugo</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>The Hunchback of Notre-Dame</string>
+			<key>Author</key>
+			<string>Victor Hugo</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Lolita</string>
+			<key>Author</key>
+			<string>Vladmir Nabokov</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>The Sketch Book of Geoffrey Crayon, Gent.</string>
+			<key>Author</key>
+			<string>Washington Irving</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>The Moonstone</string>
+			<key>Author</key>
+			<string>Wilkie Collins</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>The Woman in White</string>
+			<key>Author</key>
+			<string>Wilkie Collins</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>As I Lay Dying</string>
+			<key>Author</key>
+			<string>William Faulkner</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>The Lord of the Flies</string>
+			<key>Author</key>
+			<string>William Golding</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Vanity Fair</string>
+			<key>Author</key>
+			<string>William Makepeace Thackeray</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Naked Lunch</string>
+			<key>Author</key>
+			<string>William S. Burroughs</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>A Midsummer Night&apos;s Dream</string>
+			<key>Author</key>
+			<string>William Shakespeare</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>All&apos;s Well That Ends Well</string>
+			<key>Author</key>
+			<string>William Shakespeare</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Anthony and Cleopatra</string>
+			<key>Author</key>
+			<string>William Shakespeare</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Hamlet</string>
+			<key>Author</key>
+			<string>William Shakespeare</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>King Lear</string>
+			<key>Author</key>
+			<string>William Shakespeare</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Macbeth</string>
+			<key>Author</key>
+			<string>William Shakespeare</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Much Ado About Nothing</string>
+			<key>Author</key>
+			<string>William Shakespeare</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Romeo And Juliet</string>
+			<key>Author</key>
+			<string>William Shakespeare</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Sophie&apos;s Choice</string>
+			<key>Author</key>
+			<string>William Styron</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Their Eyes Were Watching God</string>
+			<key>Author</key>
+			<string>Zora Neale Hurston</string>
+		</dict>
+	</array>
+	<key>Libraries</key>
+	<array>
+		<dict>
+			<key>Name</key>
+			<string>North</string>
+			<key>ShelfCount</key>
+			<string>3</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>East</string>
+			<key>ShelfCount</key>
+			<string>7</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>South</string>
+			<key>ShelfCount</key>
+			<string>13</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>West</string>
+			<key>ShelfCount</key>
+			<string>9</string>
+		</dict>
+	</array>
+</dict>
+</plist>
